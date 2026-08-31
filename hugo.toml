@@ -1,0 +1,3 @@
+baseURL = "https://example.invalid/"
+languageCode = "en-us"
+title = "Reltext Publish Test"
