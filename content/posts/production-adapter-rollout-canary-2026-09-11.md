@@ -14,3 +14,5 @@ This post validates the Reltext Hugo production publishing path after migration 
 - Expected behavior: create-only publish, GitHub App signed commit, and frozen adapter identity.
 
 Canary marker: prod-adapter-rollout-20260911.
+
+Revised from Reltext on 2026-09-24 (revise-and-republish check).
