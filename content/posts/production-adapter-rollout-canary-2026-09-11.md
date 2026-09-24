@@ -16,3 +16,4 @@ This post validates the Reltext Hugo production publishing path after migration 
 Canary marker: prod-adapter-rollout-20260911.
 
 Revised from Reltext on 2026-09-24 (revise-and-republish check).
+Second revision attempt.
